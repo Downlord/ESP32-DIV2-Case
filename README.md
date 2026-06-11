@@ -1,10 +1,5 @@
 # ESP32-DIV2-Case
 
-![Alt text](images/image1.jpg)
-![Alt text](images/image2.jpg)
-![Alt text](images/image3.jpg)
-![Alt text](images/image4.jpg)
-
 A clean, functional enclosure designed for the ESP32 DIV V2, printed in carbon fiber filament for a premium look and feel. The case features cutouts for the integrated display, the 6-button input matrix, antenna pass-throughs at the top, and dual slot openings on the front face for connectors or card access.
 
 Features:
@@ -24,3 +19,9 @@ Supports: Minimal / interface only for overhangs around antenna ports
 Printer: Any FDM printer with a 0.4 mm nozzle
 Notes: Feel free to remix and adapt. If you have the exact board variant (antenna config, button layout), double-check the cutout alignment before printing at scale.
 
+## Images
+
+![Alt text](images/image1.jpg)
+![Alt text](images/image2.jpg)
+![Alt text](images/image3.jpg)
+![Alt text](images/image4.jpg)
